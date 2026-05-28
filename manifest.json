@@ -1,8 +1,9 @@
 {
   "name": "Coin Saving Tracker",
   "short_name": "coin-saving-",
-  "start_url": "/",
+  "start_url": "/coin-saving-tracker/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/coin-saving-tracker/"
 }
